@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">554717506096</string>
+    <string name="google_api_key" translatable="false">AIzaSyADam_T7N1Tt6ZURZgx9EHiurZB-Nm6UAA</string>
+    <string name="google_app_id" translatable="false">1:554717506096:android:d372b73548cb6e8ba2dbf5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyADam_T7N1Tt6ZURZgx9EHiurZB-Nm6UAA</string>
+    <string name="google_storage_bucket" translatable="false">care-connect11.appspot.com</string>
+    <string name="project_id" translatable="false">care-connect11</string>
+</resources>

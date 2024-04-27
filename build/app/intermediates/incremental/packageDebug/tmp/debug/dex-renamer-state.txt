@@ -1,0 +1,4 @@
+#Sun Apr 28 00:01:47 CET 2024
+base.0=D\:\\flutter_project\\walid_project\\test-app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

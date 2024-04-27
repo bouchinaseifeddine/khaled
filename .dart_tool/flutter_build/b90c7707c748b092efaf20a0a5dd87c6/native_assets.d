@@ -1,0 +1,1 @@
+ D:\\flutter_project\\walid_project\\test-app\\.dart_tool\\flutter_build\\b90c7707c748b092efaf20a0a5dd87c6\\native_assets.yaml: 

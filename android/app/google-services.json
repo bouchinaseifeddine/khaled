@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "554717506096",
+    "project_id": "care-connect11",
+    "storage_bucket": "care-connect11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554717506096:android:32971b9f03b5604ca2dbf5",
+        "android_client_info": {
+          "package_name": "com.example.care_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADam_T7N1Tt6ZURZgx9EHiurZB-Nm6UAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554717506096:android:d372b73548cb6e8ba2dbf5",
+        "android_client_info": {
+          "package_name": "com.example.testt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADam_T7N1Tt6ZURZgx9EHiurZB-Nm6UAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
